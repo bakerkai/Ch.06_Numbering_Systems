@@ -3,7 +3,7 @@ Sign your name:_______Kai___
 
 
 1.) Convert Binary 101010 to Hexadecimal.
-    42
+    2A
 2.) Convert Binary 11101001 to Octal.
     351
 3.) Convert Hexadecimal FC to Binary.
@@ -11,7 +11,7 @@ Sign your name:_______Kai___
 4.) Convert Hexadecimal 1F to Decimal.
     31
 5.) Convert Hexadecimal #FAAFBD to RGB.
-    250 175 79
+    250 175 189
 6.) Convert Octal 70 to Binary.
 1110000
 7.) Convert RGB (32,128,64) to Hexadecimal.
